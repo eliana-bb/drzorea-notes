@@ -1,0 +1,2 @@
+git pull
+"C:\Program Files\Mozilla Firefox\firefox.exe" index.html
